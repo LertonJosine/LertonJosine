@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LertonJosine
-- 👀 I’m interested in inership
+- 👀 I’m interested in a inership
 - 🌱 I’m currently learning django, react.js
 - 💞️ I’m looking to collaborate on webaplication development
 - 📫 How to reach me:
