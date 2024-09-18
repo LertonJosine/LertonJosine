@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @LertonJosine
-- 👀 I’m interested in a inership
+- 👀 I’m interested in an intership
 - 🌱 I’m currently learning django, react.js
 - 💞️ I’m looking to collaborate on webaplication development
 - 📫 How to reach me:
-- Contact: +258 871595471 or +258 833430887
+- Contact: +258 871595471 or +258 857972209
 - Emai: josinelerton@gmail.com
 - LinkedIn:https://www.linkedin.com/in/lerton-josine-791913231/
 
